@@ -4,7 +4,7 @@ window.onload = function () {
   }); // 1で発火したajaxでデータベースにアクセスして、テーブルから取得した日付の予約情報を取り出す。
 
   function init_set_reservations() {
-    var server_url = "http://localhost:8000/"; // 使用しているサーバーのURLを定義
+    var server_url = "https://facility-reservation-demo.herokuapp.com/"; // 使用しているサーバーのURLを定義
     // フォームで送信されるデータの確認、本番ではコメントアウト。
     // var formData = $('#test').serialize();
     // console.log(formData);
