@@ -123,6 +123,7 @@ window.onload = function () {
       console.log(selectEndtime);
 
       var classes = document.getElementsByClassName('js-timeselectform');
+      var i = 0;
 
       for (i = 0; i < classes.length; i++) {
       if(classes[i].style.display ==="flex") {
