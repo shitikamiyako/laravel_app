@@ -26,11 +26,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        if (config('app.env') !== 'local') {
-        $url->forceScheme('https');
-      }
-
-       Schema::defaultStringLength(191); //
+       Schema::defaultStringLength(191);
        Blade::component('components.btn-del' , 'deletebutton');
 
        if (\App::environment('production')) {
