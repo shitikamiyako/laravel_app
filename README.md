@@ -1982,26 +1982,50 @@ LaravelやPHPにより慣れる意味でもこちらでのアプリ制作もや�
 ##主な参考サイト
 
 [ダーティリード・ノンリピータブルリード（ファジーリード）・ファントムリードの違い](https://high-programmer.com/2017/10/18/db-isolationlevel/#i-5)
+
 [JavaScriptでオブジェクトや配列の特定のキーの値だけを取り出す](https://s8a.jp/javascript-object-array-property-function)
+
 [npmでのJSライブラリインストール＆ビルド(※Laravel使用時)](http://skill-up-engineering.com/2017/11/23/npm%E3%81%A7%E3%81%AEjs%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB/)
+
 [JavaScriptの配列の使い方まとめ。要素の追加,結合,取得,削除。](https://qiita.com/takeharu/items/d75f96f81ff83680013f)
+
 [Laravel 5.7で基本的なCRUDを作る](https://qiita.com/sutara79/items/ef30fcdfb7afcb2188ea)
+
 [gitを使うなら最低限覚えておきたいgitコマンド6選](https://youmjww.hatenablog.jp/entry/2018/10/01/git%E3%82%92%E4%BD%BF%E3%81%86%E3%81%AA%E3%82%89%E6%9C%80%E4%BD%8E%E9%99%90%E8%A6%9A%E3%81%88%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%896%E9%81%B8)
+
 [LaravelをGitで管理（Git Hub）](https://laraweb.net/environment/6516/)
+
 [HerokuでMySQLを使おうとして詰まったところ](https://qiita.com/senou/items/108ef1d94dcb5b227b4f)
+
 [HerokuにLaravelをデプロイする方法](https://blog.nakamu.life/posts/heroku-laravel-deploy#JavaScript_csssassHeroku_227)
+
 [JavaScript の ジェネレータ を極める！](https://qiita.com/kura07/items/d1a57ea64ef5c3de8528#26-%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF-%E3%81%AE%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AE%E5%88%A9%E7%94%A8%E6%B3%95)
+
 [Laravelのバリデーションにはフォームリクエストを使おう](https://qiita.com/sakuraya/items/abca057a424fa9b5a187#authorize%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+
 [laravelでformのバリデーションをしよう！（カスタマイズあり）](https://qiita.com/n_oshiumi/items/327dfba44b8da117a5ff#%E8%A3%9C%E8%B6%B3%E3%83%90%E3%83%AA%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%A9%9F%E8%83%BD%E3%82%92%E4%BD%BF%E3%82%8F%E3%81%9A%E3%81%AB%E3%83%90%E3%83%AA%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A3%E3%81%BD%E3%81%84%E3%81%93%E3%81%A8%E3%81%97%E3%81%9F%E3%81%84)
+
 [LaravelのFormRequestでValidationエラーメッセージを日本語化する](https://qiita.com/shiro96/items/c4bb2c9bf271062d1b48)
+
 [完全な手順！Laravelバリデーション前にデータを加工する方法](https://blog.capilano-fw.com/?p=579)
+
 [全217件！Carbonで時間操作する実例](https://blog.capilano-fw.com/?p=867#format)
+
 [PHPで二つの時間帯が重複しないかチェックする](https://sousaku-memo.net/php-system/184)
+
 [【PHP】try-catch解説](https://qiita.com/Chelsea/items/59436cfda149a6ac6c91)
+
 [エラー画面やAPIエラーから独自エラーまで！ フローチャートでちゃんと理解するLaravelの例外処理とケーススタディ](https://qiita.com/kd9951/items/b1bccc4666976ec90dcc#case-%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%A8%E3%83%A9%E3%83%BC%E3%82%92%E5%AE%9A%E7%BE%A9%E3%81%97%E3%81%A6%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%A8%E3%83%A9%E3%83%BC%E5%87%A6%E7%90%86%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B)
+
 [フロー図で理解するLaravelバリデータの仕組みと、チーム開発でのケーススタディ](https://qiita.com/kd9951/items/e797b17c03fc8e8f414b)
+
 [Laravelで独自例外処理を実装する（楽観的排他制御andトランザクション処理）](https://qiita.com/sakuraya/items/a511f0e615717a6b7628)
+
 [例外処理について](https://laraweb.net/surrounding/2192/)
+
 [laravelでビューにエラーメッセージを渡す方法 （フォーム）](https://thai-bangkok.info/programming/php-laravel/laravel%E3%81%A7%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AB%E3%82%A8%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E6%B8%A1%E3%81%99%E6%96%B9%E6%B3%95-%EF%BC%88%E3%83%95%E3%82%A9)
+
 [Herokuデプロイ後に出たエラーを解決するためにやったこと](https://qiita.com/acro_y/items/fc5d3fc94b4e5fe13bb5)
+
 [MVCに基づいて設計する時に思う自分なりのベストプラクティス](http://rabbitfoot141.hatenablog.com/entry/2018/10/16/194555#Controller-%E3%81%AE%E5%BD%B9%E5%89%B2)
+
