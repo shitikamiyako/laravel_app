@@ -10,6 +10,7 @@
 
 
 [実際の成果物](https://facility-reservation-demo.herokuapp.com)
+
 [Github](https://github.com/shitikamiyako/laravel_app)
 
 ## 課題の選定
@@ -113,13 +114,6 @@
 削除ボタンを押すと1件の情報表示(showメソッド)となり、キャンセルボタンを押すと確認ダイアログが出てきます。戻るを押すと一覧ページに戻ります。
 
 ## 開発手順
-
-1.環境選定
-2.要件定義
-3.GUI設計
-4.データベース設計
-5.コーディング
-6.Herokuデプロイ
 
 #### 1.環境選定
 私はまず、環境の選定から行いました。
