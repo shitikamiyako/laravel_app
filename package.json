@@ -32,6 +32,6 @@
         "flatpickr": "^4.6.3",
         "hoge": "0.0.1",
         "jquery-datetimepicker": "^2.5.21",
-        "moment": "^2.24.0"
+        "moment": "^2.29.2"
     }
 }
